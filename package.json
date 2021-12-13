@@ -2,10 +2,10 @@
   "name": "nodemon-express",
   "version": "1.0.0",
   "description": "nodemon-express",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "server": "nodemon index.js"
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "keywords": [
     "nodemon-express"
